@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>universal</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605151130024ORQWM</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605151130021RP1MR</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Signos que conectan: Diccionario digital inclusivo de emociones</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Irene Rubia López (maestra Audición y Lenguaje-LSE)</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Recurso educativo abierto diseñado para alumnado de Educación Primaria. El objetivo es la creación de un diccionario de emociones signado en LSE para fomentar la inclusión y la competencia digital.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>universal</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778837352114</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mp6ptx5i-mr4t7mb0p</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>INICIO</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INICIO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INICIO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp6ptx5i-mr4t7mb0p</odePageId>
+      <odeBlockId>block-1778753871382-cbio3f2m0</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp6ptx5i-mr4t7mb0p</odePageId>
+          <odeBlockId>block-1778753871382-cbio3f2m0</odeBlockId>
+          <odeIdeviceId>idevice-1778753871381-jgeyr9qdy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Título: ¡Bienvenidos al Diccionario de Emociones en LSE!<br />Contenido: "Diseñaremos un diccionario digital interactivo. Grabaremos clips en LSE para que todo el colegio aprenda vuestros signos."</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778753871381-jgeyr9qdy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Título: ¡Bienvenidos al Diccionario de Emociones en LSE!<br />Contenido: \"Diseñaremos un diccionario digital interactivo. Grabaremos clips en LSE para que todo el colegio aprenda vuestros signos.\"</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp6ptx5l-mjp2td96b</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp6ptx5l-mjp2td96b</odePageId>
+      <odeBlockId>block-1778753170692-3w0w9t2oz</odeBlockId>
+      <blockName>Guía Didáctica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp6ptx5l-mjp2td96b</odePageId>
+          <odeBlockId>block-1778753170692-3w0w9t2oz</odeBlockId>
+          <odeIdeviceId>idevice-1778753170691-aaoaxzwvv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100.045%; height: 170px;">
+<tbody>
+<tr style="height: 34px;">
+<td style="width: 49.9625%; height: 34px;">Elementos:</td>
+<td style="width: 50.0385%; height: 34px;">Detalles del proyecto:</td>
+</tr>
+<tr style="height: 34px;">
+<td style="width: 49.9625%; height: 34px;">Nivel/materia</td>
+<td style="width: 50.0385%; height: 34px;">4º Primaria. Lengua-audición y lenguaje</td>
+</tr>
+<tr style="height: 34px;">
+<td style="width: 49.9625%; height: 34px;">Objetivo general</td>
+<td style="width: 50.0385%; height: 34px;">Transformar al alumnado de espectadores a creadores de contenido digital inclusivo.</td>
+</tr>
+<tr style="height: 34px;">
+<td style="width: 49.9625%; height: 34px;">Relación criterial</td>
+<td style="width: 50.0385%; height: 34px;"> Sesión 1: LCL.1.1 (Búsqueda de info). Sesión 2: LCL.3.1 (Escritura multimodal). Sesión 3: LCL.1.2 (Expresión en LSE). Sesión 4: CMN.3.4 (Creación digital/Subtítulos). Sesión 5: LCL.3.2 (Recursos creativos). Sesión 6: CMN.3.5 (Participación en proyectos compartidos).</td>
+</tr>
+<tr style="height: 34px;">
+<td style="width: 49.9625%; height: 34px;">Atención a la diversidad</td>
+<td style="width: 50.0385%; height: 34px;"> Aplicación de pautas DUA mediante el uso de apoyos visuales (pictogramas), lengua de signos y subtitulado automático para garantizar el acceso universal a la información.</td>
+</tr>
+<tr>
+<td style="width: 49.9625%;">Gestión docente</td>
+<td style="width: 50.0385%;">
+<p>He organizado mis herramientas de cabecera en un entorno de marcadores visuales. He organizado los repositorios según el uso que le puedo dar para mejorar mi búsqueda de herramientas dentro de él. Mi criterio de selección se basa en la versatilidad de los recursos y su capacidad para adaptarse a diferentes adaptaciones en el lenguaje o niveles de competencia digital.</p>
+<p>https://www.symbaloo.com/shared/AAAAAwHcQOYAA41_W3R5vQ==</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778753170691-aaoaxzwvv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100.045%; height: 170px;\">\n<tbody>\n<tr style=\"height: 34px;\">\n<td style=\"width: 49.9625%; height: 34px;\">Elementos:</td>\n<td style=\"width: 50.0385%; height: 34px;\">Detalles del proyecto:</td>\n</tr>\n<tr style=\"height: 34px;\">\n<td style=\"width: 49.9625%; height: 34px;\">Nivel/materia</td>\n<td style=\"width: 50.0385%; height: 34px;\">4º Primaria. Lengua-audición y lenguaje</td>\n</tr>\n<tr style=\"height: 34px;\">\n<td style=\"width: 49.9625%; height: 34px;\">Objetivo general</td>\n<td style=\"width: 50.0385%; height: 34px;\">Transformar al alumnado de espectadores a creadores de contenido digital inclusivo.</td>\n</tr>\n<tr style=\"height: 34px;\">\n<td style=\"width: 49.9625%; height: 34px;\">Relación criterial</td>\n<td style=\"width: 50.0385%; height: 34px;\"> Sesión 1: LCL.1.1 (Búsqueda de info). Sesión 2: LCL.3.1 (Escritura multimodal). Sesión 3: LCL.1.2 (Expresión en LSE). Sesión 4: CMN.3.4 (Creación digital/Subtítulos). Sesión 5: LCL.3.2 (Recursos creativos). Sesión 6: CMN.3.5 (Participación en proyectos compartidos).</td>\n</tr>\n<tr style=\"height: 34px;\">\n<td style=\"width: 49.9625%; height: 34px;\">Atención a la diversidad</td>\n<td style=\"width: 50.0385%; height: 34px;\"> Aplicación de pautas DUA mediante el uso de apoyos visuales (pictogramas), lengua de signos y subtitulado automático para garantizar el acceso universal a la información.</td>\n</tr>\n<tr>\n<td style=\"width: 49.9625%;\">Gestión docente</td>\n<td style=\"width: 50.0385%;\">\n<p>He organizado mis herramientas de cabecera en un entorno de marcadores visuales. He organizado los repositorios según el uso que le puedo dar para mejorar mi búsqueda de herramientas dentro de él. Mi criterio de selección se basa en la versatilidad de los recursos y su capacidad para adaptarse a diferentes adaptaciones en el lenguaje o niveles de competencia digital.</p>\n<p>https://www.symbaloo.com/shared/AAAAAwHcQOYAA41_W3R5vQ==</p>\n</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp6ptx5m-jhsgx0krz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SEGURIDAD Y DERECHOS</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SEGURIDAD Y DERECHOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SEGURIDAD Y DERECHOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp6ptx5m-jhsgx0krz</odePageId>
+      <odeBlockId>block-1778754204460-gf8k1rsp3</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp6ptx5m-jhsgx0krz</odePageId>
+          <odeBlockId>block-1778754204460-gf8k1rsp3</odeBlockId>
+          <odeIdeviceId>idevice-1778754204458-z9vso1tjg</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778754204458-z9vso1tjg" title="" href="{{context_path}}/content/resources/TAREA 2.3 CDDB2.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/TAREA 2.3 CDDB2.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778754204458-z9vso1tjg","img_0":{"img":"{{context_path}}/content/resources/TAREA 2.3 CDDB2.png","thumbnail":"{{context_path}}/content/resources/TAREA 2.3 CDDB2.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp6ptx5n-xdski1tt0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿QUÉ VAMOS A CREAR?</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿QUÉ VAMOS A CREAR?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿QUÉ VAMOS A CREAR?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp6ptx5n-xdski1tt0</odePageId>
+      <odeBlockId>block-1778754351924-o851rk7de</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp6ptx5n-xdski1tt0</odePageId>
+          <odeBlockId>block-1778754351924-o851rk7de</odeBlockId>
+          <odeIdeviceId>idevice-1778754351923-yn63slz3p</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El producto final será un mural interactivo en Canva con vuestros vídeos editados en Clipchamp (con subtítulos) y pictogramas de Arasaac.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778754351923-yn63slz3p","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El producto final será un mural interactivo en Canva con vuestros vídeos editados en Clipchamp (con subtítulos) y pictogramas de Arasaac.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp6ptx5o-2h26py66o</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PLAN DE TRABAJO</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PLAN DE TRABAJO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PLAN DE TRABAJO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp6ptx5o-2h26py66o</odePageId>
+      <odeBlockId>block-1778754440708-wabqc32k0</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp6ptx5o-2h26py66o</odePageId>
+          <odeBlockId>block-1778754440708-wabqc32k0</odeBlockId>
+          <odeIdeviceId>idevice-1778754440708-1bcvtkxx0</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778754440708-1bcvtkxx0" title="" href="{{context_path}}/content/resources/TAREA 7.1 CDDB2 .png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/TAREA 7.1 CDDB2 .png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778754440708-1bcvtkxx0","img_0":{"img":"{{context_path}}/content/resources/TAREA 7.1 CDDB2 .png","thumbnail":"{{context_path}}/content/resources/TAREA 7.1 CDDB2 .png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp6ptx5p-yj9ek7he1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>RECURSOS</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RECURSOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RECURSOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp6ptx5p-yj9ek7he1</odePageId>
+      <odeBlockId>block-1778754507455-cindlzgye</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp6ptx5p-yj9ek7he1</odePageId>
+          <odeBlockId>block-1778754507455-cindlzgye</odeBlockId>
+          <odeIdeviceId>idevice-1778754507454-trub1xde8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Curación para el alumnado: he seleccionado recursos específicos para que mi alumnado de primaria pueda realizar de forma autónoma su proyecto de "Diccionario de Signos". He filtrado la información para ofrecerles solo tutoriales muy visuales de Clipchamp y acceso directo a los pictogramas de Arasaac y signos oficiales. La organización en formato muro (Padlet) permite que alumnos con dificultades de lectura identifiquen los recursos mediante iconos y miniaturas, fomentando un uso plural y responsable de la tecnología.</p>
+<p>https://padlet.com/irublop733/diccionario-lse-7rn85e0u6zh7h6kd</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778754507454-trub1xde8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Curación para el alumnado: he seleccionado recursos específicos para que mi alumnado de primaria pueda realizar de forma autónoma su proyecto de \"Diccionario de Signos\". He filtrado la información para ofrecerles solo tutoriales muy visuales de Clipchamp y acceso directo a los pictogramas de Arasaac y signos oficiales. La organización en formato muro (Padlet) permite que alumnos con dificultades de lectura identifiquen los recursos mediante iconos y miniaturas, fomentando un uso plural y responsable de la tecnología.</p>\n<p>https://padlet.com/irublop733/diccionario-lse-7rn85e0u6zh7h6kd</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp6ptx5p-agprfmxoe</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>EVALUACIÓN</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp6ptx5p-agprfmxoe</odePageId>
+      <odeBlockId>block-1778754688311-haxday785</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp6ptx5p-agprfmxoe</odePageId>
+          <odeBlockId>block-1778754688311-haxday785</odeBlockId>
+          <odeIdeviceId>idevice-1778754688311-n1cuyntuj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para la evaluación del Diccionario visual utilizaré los siguientes instrumentos, que me permitan tener una evaluación personal de cada alumno/a, así como una autoevaluación del alumnado y la repercusión de este proyecto, lo cual me ayudará a realizar una autoevaluación personal.</p>
+<p><br />1. Registro anecdótico<br />Qué evalúa: recoge información significativa y anotaciones diarias sobre el desempeño, actitud y dificultades del alumnado, en especial, del alumnado NEAE. Me permite analizar cómo ha sido el trabajo del alumnado, destacando así los aspectos más positivos y negativos, con el fin de tener una valoración global y personal de la actividad.</p>
+<p>Instrumento: plantilla en un documento de texto (Google Docs/Drive) con campos para fecha, hora, tipo de actividad y observaciones como: “Hoy ha mostrado gran iniciativa signando la emoción de alegría” o “Le ha costado concentrarse en la edición de Clipchamp”.</p>
+<table border="1" style="width: 99.9848%;">
+<tbody>
+<tr>
+<td style="width: 24.9886%;">FECHA</td>
+<td style="width: 24.9886%;">HORA</td>
+<td style="width: 24.9886%;">ACTIVIDAD/SESIÓN</td>
+<td style="width: 24.9886%;">OBSERVACIONES</td>
+</tr>
+<tr>
+<td style="width: 24.9886%;"><br /></td>
+<td style="width: 24.9886%;"><br /></td>
+<td style="width: 24.9886%;"><br /></td>
+<td style="width: 24.9886%;"><br /></td>
+</tr>
+<tr>
+<td style="width: 24.9886%;"><br /></td>
+<td style="width: 24.9886%;"><br /></td>
+<td style="width: 24.9886%;"><br /></td>
+<td style="width: 24.9886%;"></td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<p>2. Diana </p>
+<p>Qué evalúa: el progreso del aprendizaje de manera visual a través de círculos concéntricos. Me servirá para que los alumnos/as realicen una autoevaluación de su implicación en este proyecto de manera inmediata, conociendo yo también la funcionalidad de cada grupo.</p>
+<p>Instrumento: diseño realizado en Canva donde los alumnos/as marcan su nivel de cumplimiento de dentro hacia fuera. <a href="https://canva.link/dtqxzadra81zy5r">https://canva.link/dtqxzadra81zy5r</a></p>
+<p><br />3. Cuestionario - Google Forms</p>
+<p>Qué evalúa: la repercusión del trabajo final y la satisfacción del alumnado con el producto creado para el centro. </p>
+<p>Instrumento: aprovechando que usan los ordenadores, realizaremos un formulario de Google con preguntas sobre la utilidad de los códigos QR y la claridad de los subtítulos generados.  <a href="https://forms.gle/eEEtKYukKjEogiRx7">https://forms.gle/eEEtKYukKjEogiRx7 </a></p>
+<p>La combinación de estos tres instrumentos (registro anecdótico, diana de evaluación y el cuestionario) me permite realizar una triangulación de datos que contrasta mi observación directa con la percepción del alumnado y el impacto real del proyecto en el centro. Desde mi práctica docente en AL, la aplicación de estas herramientas digitales facilita la validación de la estrategia didáctica, permitiéndome analizar críticamente si la tecnología ha actuado como un verdadero facilitador de la comunicación mediante el uso de subtítulos y pictogramas. Al automatizar la recogida y presentación de datos, puedo tratar variables como la motivación o las dificultades técnicas de forma inmediata, ofreciendo al alumnado un feedback constructivo que refuerza su autoestima y autonomía, garantizando así que la evaluación sea un proceso continuo de mejora basado en evidencias reales que guiarán futuras propuestas pedagógicas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778754688311-n1cuyntuj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para la evaluación del Diccionario visual utilizaré los siguientes instrumentos, que me permitan tener una evaluación personal de cada alumno/a, así como una autoevaluación del alumnado y la repercusión de este proyecto, lo cual me ayudará a realizar una autoevaluación personal.</p>\n<p><br />1. Registro anecdótico<br />Qué evalúa: recoge información significativa y anotaciones diarias sobre el desempeño, actitud y dificultades del alumnado, en especial, del alumnado NEAE. Me permite analizar cómo ha sido el trabajo del alumnado, destacando así los aspectos más positivos y negativos, con el fin de tener una valoración global y personal de la actividad.</p>\n<p>Instrumento: plantilla en un documento de texto (Google Docs/Drive) con campos para fecha, hora, tipo de actividad y observaciones como: “Hoy ha mostrado gran iniciativa signando la emoción de alegría” o “Le ha costado concentrarse en la edición de Clipchamp”.</p>\n<table border=\"1\" style=\"width: 99.9848%;\">\n<tbody>\n<tr>\n<td style=\"width: 24.9886%;\">FECHA</td>\n<td style=\"width: 24.9886%;\">HORA</td>\n<td style=\"width: 24.9886%;\">ACTIVIDAD/SESIÓN</td>\n<td style=\"width: 24.9886%;\">OBSERVACIONES</td>\n</tr>\n<tr>\n<td style=\"width: 24.9886%;\"><br /></td>\n<td style=\"width: 24.9886%;\"><br /></td>\n<td style=\"width: 24.9886%;\"><br /></td>\n<td style=\"width: 24.9886%;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 24.9886%;\"><br /></td>\n<td style=\"width: 24.9886%;\"><br /></td>\n<td style=\"width: 24.9886%;\"><br /></td>\n<td style=\"width: 24.9886%;\"></td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p>2. Diana </p>\n<p>Qué evalúa: el progreso del aprendizaje de manera visual a través de círculos concéntricos. Me servirá para que los alumnos/as realicen una autoevaluación de su implicación en este proyecto de manera inmediata, conociendo yo también la funcionalidad de cada grupo.</p>\n<p>Instrumento: diseño realizado en Canva donde los alumnos/as marcan su nivel de cumplimiento de dentro hacia fuera. <a href=\"https://canva.link/dtqxzadra81zy5r\">https://canva.link/dtqxzadra81zy5r</a></p>\n<p><br />3. Cuestionario - Google Forms</p>\n<p>Qué evalúa: la repercusión del trabajo final y la satisfacción del alumnado con el producto creado para el centro. </p>\n<p>Instrumento: aprovechando que usan los ordenadores, realizaremos un formulario de Google con preguntas sobre la utilidad de los códigos QR y la claridad de los subtítulos generados.  <a href=\"https://forms.gle/eEEtKYukKjEogiRx7\">https://forms.gle/eEEtKYukKjEogiRx7 </a></p>\n<p>La combinación de estos tres instrumentos (registro anecdótico, diana de evaluación y el cuestionario) me permite realizar una triangulación de datos que contrasta mi observación directa con la percepción del alumnado y el impacto real del proyecto en el centro. Desde mi práctica docente en AL, la aplicación de estas herramientas digitales facilita la validación de la estrategia didáctica, permitiéndome analizar críticamente si la tecnología ha actuado como un verdadero facilitador de la comunicación mediante el uso de subtítulos y pictogramas. Al automatizar la recogida y presentación de datos, puedo tratar variables como la motivación o las dificultades técnicas de forma inmediata, ofreciendo al alumnado un feedback constructivo que refuerza su autoestima y autonomía, garantizando así que la evaluación sea un proceso continuo de mejora basado en evidencias reales que guiarán futuras propuestas pedagógicas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp6ptx5q-f7a6dtm1l</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp6ptx5q-f7a6dtm1l</odePageId>
+      <odeBlockId>block-1778753513215-ukuq57b02</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp6ptx5q-f7a6dtm1l</odePageId>
+          <odeBlockId>block-1778753513215-ukuq57b02</odeBlockId>
+          <odeIdeviceId>idevice-1778753513214-vgv45jnvk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Autoría: Irene Rubia López.<br />Licencia: Este recurso está bajo una licencia CC BY-NC-SA 4.0.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778753513214-vgv45jnvk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autoría: Irene Rubia López.<br />Licencia: Este recurso está bajo una licencia CC BY-NC-SA 4.0.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
